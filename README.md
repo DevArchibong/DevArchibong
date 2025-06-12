@@ -1,4 +1,4 @@
-- 👋 Hi, Emmanuel Archibong
+- 👋 Hi, I'm Emmanuel Archibong
 - 👀 I’m interested in full stack development..
 - 🌱 I’m currently learning html,css,javascript,nodejs..@Gomycode Abuja hacker's space.
 - 💞️ I’m looking to collaborate as intend and learn as much as posible ...
